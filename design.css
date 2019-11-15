@@ -5,6 +5,12 @@ html {
     margin-top: 5px;
 }
 
+title {
+    background: red;
+    margin-left: 5px;
+    margin-top: 5px;
+
+}
 body {
     background-color: p;
     height: 100%;
