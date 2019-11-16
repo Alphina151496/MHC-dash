@@ -49,13 +49,13 @@ li a {
     background: darkolivegreen;
     width: 40%;
     height: 100%;
-    padding-top: 25px;
-    padding-left: 25px;
+    margin-top: 25px;
+    margin-left: 25px;
 
 }
 #logo {
-    float: center;
-    display: flex;
+    float: right;
+    margin-right: 25px;
  }
 
 h4 {
