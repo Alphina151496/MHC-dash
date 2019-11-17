@@ -62,6 +62,13 @@ li a {
 #veld {
     float: right;
 }
+#groepsfoto{
+    float: left;
+}
+h2{
+    color: white;
+}
+
 h3{
     color: white;
 }
